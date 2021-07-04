@@ -43,7 +43,7 @@ Page({
     // wx.clearStorage();
     console.log('onLoad');
     qqmapsdk = new QQMapWX({
-      key: 'GRABZ-2H4KQ-DZH5A-GN7PY-CNBLK-QXBPA'
+      key: '你的腾讯key'
     });
   },
 
