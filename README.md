@@ -25,7 +25,7 @@
 
 ![Image text](https://img-blog.csdnimg.cn/20210605223559673.png)![Image text](https://img-blog.csdnimg.cn/20210605223705194.png)
 
-有收获可以请作者喝咖啡哟
+#### 有收获可以请作者喝咖啡哟
 If the project is very helpful to you, you can buy the author a cup of coffee. 如果这个项目对您有帮助，请作者喝杯咖啡吧。☕
 ![image](https://user-images.githubusercontent.com/55384355/124375673-fb77a880-dcd5-11eb-82e1-9ee6f9c7d1f0.png)
 ![image](https://user-images.githubusercontent.com/55384355/124375686-0fbba580-dcd6-11eb-97d9-98cf3d30037e.png)
@@ -45,5 +45,8 @@ If the project is very helpful to you, you can buy the author a cup of coffee. �
 
 ![wechat-code](https://user-images.githubusercontent.com/55384355/124375379-75a72d80-dcd4-11eb-909a-92bccedf6f96.jpg)
 
+#### 微信关注公众号：Java程序员客栈
+
+#### 微信搜索小程序：超惠省联盟
 
 项目源代码来源：https://gitee.com/awukong/waimai-cps?_from=gitee_search#waimai-cps
