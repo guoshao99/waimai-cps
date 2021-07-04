@@ -5,7 +5,8 @@
 不需要服务器，不需要复杂的部署过程，个人类型的小程序就可以玩。
 
 #### 线上体验
-![Image text](https://img-blog.csdnimg.cn/20210605231706273.png)
+![gh_21f24ee5aec5_258](https://user-images.githubusercontent.com/55384355/124375402-98d1dd00-dcd4-11eb-93b8-1cb24080cb77.jpg)
+
 
 #### 省钱截图
 ![Image text](https://img-blog.csdnimg.cn/20210605225719688.png)![Image text](https://img-blog.csdnimg.cn/20210605225802128.png)
@@ -24,12 +25,6 @@
 
 ![Image text](https://img-blog.csdnimg.cn/20210605223559673.png)![Image text](https://img-blog.csdnimg.cn/20210605223705194.png)
 
-![Image text](https://img-blog.csdnimg.cn/20210605224012193.png)![Image text](https://img-blog.csdnimg.cn/20210605223847181.png)
-
-#### 有收获可以请作者喝咖啡哟
-If the project is very helpful to you, you can buy the author a cup of coffee. 如果这个项目对您有帮助，请作者喝杯咖啡吧。☕
-
-![Image text](https://haole-images.oss-cn-shanghai.aliyuncs.com/aliyun/oss/oss_cloud/20210629/1df7acb774d847ba8fb4b720048a97c8.jpg)  ![Image text](https://haole-images.oss-cn-shanghai.aliyuncs.com/aliyun/oss/oss_cloud/20210629/c671c6152898437485f25faf419f20af.jpg)
 
 #### 使用说明
 
@@ -39,12 +34,11 @@ If the project is very helpful to you, you can buy the author a cup of coffee. �
 3.  申请属于自己的美团、饿了么推广链接，替换原来的链接  
 4.  基于Apache License 2协议开源友好，使用、参考、转载请保留出处，严禁将项目直接打包出售。
 
-#### 知识星球
 
-不懂得怎么申请推广链接的加入知识星球，为你解答
-
-![Image text](https://haole-images.oss-cn-shanghai.aliyuncs.com/aliyun/oss/oss_cloud/20210607/369bdadf6d6b4d96b115b689488bc480.jpg)
 
 #### 联系作者
 
-![Image text](https://ysd-1300312604.cos.ap-shanghai.myqcloud.com/goods/goods_editor/20210529/d5591ebea3b14b7fb493c6b970571630.png)
+![wechat-code](https://user-images.githubusercontent.com/55384355/124375379-75a72d80-dcd4-11eb-909a-92bccedf6f96.jpg)
+
+
+项目源代码来源：https://gitee.com/awukong/waimai-cps?_from=gitee_search#waimai-cps
